@@ -48,7 +48,6 @@ Seeing these kind of posts got me thinking to make a single repository.
 | :----: | :----: |
 | [7-Zip](https://www.7-zip.org/) | File archiver with a high compression ratio. |
 | [NanaZip](https://github.com/M2Team/NanaZip) | Modern 7-Zip fork. |
-| armhf | ❌ |
 <br>
 
 ## General Software
@@ -56,7 +55,6 @@ Seeing these kind of posts got me thinking to make a single repository.
 | :----: | :----: |
 | [7-Zip](https://www.7-zip.org/) | File archiver with a high compression ratio. |
 | [NanaZip](https://github.com/M2Team/NanaZip) | Modern 7-Zip fork. |
-| armhf | ❌ |
 <br>
 
 ## Google Chrome
@@ -64,7 +62,6 @@ Seeing these kind of posts got me thinking to make a single repository.
 | :----: | :----: |
 | [7-Zip](https://www.7-zip.org/) | File archiver with a high compression ratio. |
 | [NanaZip](https://github.com/M2Team/NanaZip) | Modern 7-Zip fork. |
-| armhf | ❌ |
 <br>
 
 ## Plex
