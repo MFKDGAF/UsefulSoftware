@@ -91,6 +91,7 @@ Seeing these kind of posts got me thinking to make a single repository.
 | Name | Description |
 | :----: | :----: |
 | [ADReplStatus](https://jrsoftware.org/isinfo.php) | AD replication status tool. |
+| [AzureWatcher](https://azurewatcher.com) | Weekly updates about changes in Azure documentation, new features, and important updates. |
 | [ClickPaste](https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit) | SQL Server scripts for health checks and performance tuning. |
 | [CloudNetDraw](https://github.com/krhatland/cloudnetdraw) | A python tool fir visualizing an Azure network. |
 | [MSPortal](https://msportals.io) | Microsoft Administrator Sites, Training, and Licensing Resources. |
