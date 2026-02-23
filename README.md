@@ -2,7 +2,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Platform-Windows-blue">
 
 ## Introduction
-From time to time I see posts on r/sysadmin asking what "What are your daily tools" or "What are some of your favorite tools" or "What is on your USB toolkit".
+From time to time I see posts on [r/sysadmin](https://www.reddit.com/r/sysadmin) asking what "What are your daily tools" or "What are some of your favorite tools" or "What is on your USB toolkit".
 
 The way I keep track of my favorite Apps/Scripts/Tools is by using my personal and work OneDrive. I do this by creating a Apps, Scripts and Tools folder in the root of my OneDrive.
 Then inside of each of these folders, I create folders for each item. Inside each item's folder, I create a shortcut to their website and usually save the most recent version.
