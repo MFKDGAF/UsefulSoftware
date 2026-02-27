@@ -97,4 +97,5 @@ Seeing these kind of posts got me thinking to make a single repository.
 | [iPref (iPerf3)](https://iperf.fr) | Speed test tool for TCP, UDP and SCTP. |
 | [MSPortal](https://msportals.io) | Microsoft Administrator Sites, Training, and Licensing Resources. |
 | [OpenSSL](https://slproweb.com/products/Win32OpenSSL.html) | OpenSSL for Microsoft Windows. |
+| [SQL Server Builds](https://sqlserverbuilds.blogspot.com/) | Uunofficial build chart lists all of the known Service Packs (SP), Cumulative Updates (CU), patches, hotfixes and other builds of MS SQL Server. |
 <br>
