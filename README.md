@@ -46,8 +46,9 @@ Seeing these kind of posts got me thinking to make a single repository.
 ## Firefox
 | Name | Description |
 | :----: | :----: |
-| [7-Zip](https://www.7-zip.org/) | File archiver with a high compression ratio. |
-| [NanaZip](https://github.com/M2Team/NanaZip) | Modern 7-Zip fork. |
+| [Auto Tab Discard]([https://www.7-zip.org/](https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)) | Automatically discard inactive tabs to free up resources. |
+| [OneTab](https://addons.mozilla.org/en-US/firefox/addon/onetab/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) | Convert tabs to a list and reduce browser memory. |
+| [Pinned GMail](https://addons.mozilla.org/en-US/firefox/addon/pinned-gmail/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) | Go to the pinned GMail tab. If it doesn't exist, it's created. It also alerts you the unread emails. |
 <br>
 
 ## General Software
@@ -60,8 +61,10 @@ Seeing these kind of posts got me thinking to make a single repository.
 ## Google Chrome
 | Name | Description |
 | :----: | :----: |
-| [7-Zip](https://www.7-zip.org/) | File archiver with a high compression ratio. |
-| [NanaZip](https://github.com/M2Team/NanaZip) | Modern 7-Zip fork. |
+| [Bookmark Favicon Changer]([https://www.7-zip.org/](https://chromewebstore.google.com/detail/bookmark-favicon-changer/acmfnomgphggonodopogfbmkneepfgnh)) | Change bookmark favicon. |
+| [OneTab](https://chromewebstore.google.com/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) | Convert tabs to a list and reduce browser memory. |
+| [SAML-tracer]([https://github.com/M2Team/NanaZip](https://chromewebstore.google.com/detail/saml-tracer/mpdajninpobndbfcldcmbpnnbhibjmch)) | A debugger for viewing SAML messages. |
+| [The Marvellous Suspender](https://chromewebstore.google.com/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa) | Make your computer run smoothly by suspending the tabs you aren't using. |
 <br>
 
 ## Plex
