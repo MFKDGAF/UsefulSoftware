@@ -95,6 +95,7 @@ Seeing these kind of posts got me thinking to make a single repository.
 | [ClickPaste](https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit) | SQL Server scripts for health checks and performance tuning. |
 | [CloudNetDraw](https://github.com/krhatland/cloudnetdraw) | A python tool fir visualizing an Azure network. |
 | [iPref (iPerf3)](https://iperf.fr) | Speed test tool for TCP, UDP and SCTP. |
+| [Monarch](https://github.com/Nuzair46/Monarch) | Detach, restore, and switch monitor layouts without touching cables.
 | [MSPortal](https://msportals.io) | Microsoft Administrator Sites, Training, and Licensing Resources. |
 | [OpenSSL](https://slproweb.com/products/Win32OpenSSL.html) | OpenSSL for Microsoft Windows. |
 | [SQL Server Builds](https://sqlserverbuilds.blogspot.com/) | Uunofficial build chart lists all of the known Service Packs (SP), Cumulative Updates (CU), patches, hotfixes and other builds of MS SQL Server. |
