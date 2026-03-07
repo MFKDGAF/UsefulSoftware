@@ -81,6 +81,7 @@ Seeing these kind of posts got me thinking to make a single repository.
 ## PowerShell Modules
 | Name | Description |
 | :----: | :----: |
+| [Azure Resource Inventory] (https://github.com/microsoft/ARI) | It's a Powerful tool to create EXCEL inventory from Azure Resources with low effort. |
 | [dbatools](https://dbatools.io/) | PowerShell module designed to automate SQL Server database administration, development, and migration tasks. |
 <br>
 
