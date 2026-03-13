@@ -2,7 +2,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Platform-Windows-blue">
 
 ## Introduction
-From time to time I see posts on r/sysadmin asking what "What are your daily tools" or "What are some of your favorite tools" or "What is on your USB toolkit".
+From time to time I see posts on [r/sysadmin](https://www.reddit.com/r/sysadmin) asking what "What are your daily tools" or "What are some of your favorite tools" or "What is on your USB toolkit".
 
 The way I keep track of my favorite Apps/Scripts/Tools is by using my personal and work OneDrive. I do this by creating a Apps, Scripts and Tools folder in the root of my OneDrive.
 Then inside of each of these folders, I create folders for each item. Inside each item's folder, I create a shortcut to their website and usually save the most recent version.
@@ -46,8 +46,9 @@ Seeing these kind of posts got me thinking to make a single repository.
 ## Firefox
 | Name | Description |
 | :----: | :----: |
-| [7-Zip](https://www.7-zip.org/) | File archiver with a high compression ratio. |
-| [NanaZip](https://github.com/M2Team/NanaZip) | Modern 7-Zip fork. |
+| [Auto Tab Discard]([https://www.7-zip.org/](https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)) | Automatically discard inactive tabs to free up resources. |
+| [OneTab](https://addons.mozilla.org/en-US/firefox/addon/onetab/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) | Convert tabs to a list and reduce browser memory. |
+| [Pinned GMail](https://addons.mozilla.org/en-US/firefox/addon/pinned-gmail/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) | Go to the pinned GMail tab. If it doesn't exist, it's created. It also alerts you the unread emails. |
 <br>
 
 ## General Software
@@ -60,8 +61,10 @@ Seeing these kind of posts got me thinking to make a single repository.
 ## Google Chrome
 | Name | Description |
 | :----: | :----: |
-| [7-Zip](https://www.7-zip.org/) | File archiver with a high compression ratio. |
-| [NanaZip](https://github.com/M2Team/NanaZip) | Modern 7-Zip fork. |
+| [Bookmark Favicon Changer]([https://www.7-zip.org/](https://chromewebstore.google.com/detail/bookmark-favicon-changer/acmfnomgphggonodopogfbmkneepfgnh)) | Change bookmark favicon. |
+| [OneTab](https://chromewebstore.google.com/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) | Convert tabs to a list and reduce browser memory. |
+| [SAML-tracer]([https://github.com/M2Team/NanaZip](https://chromewebstore.google.com/detail/saml-tracer/mpdajninpobndbfcldcmbpnnbhibjmch)) | A debugger for viewing SAML messages. |
+| [The Marvellous Suspender](https://chromewebstore.google.com/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa) | Make your computer run smoothly by suspending the tabs you aren't using. |
 <br>
 
 ## Plex
@@ -78,6 +81,7 @@ Seeing these kind of posts got me thinking to make a single repository.
 ## PowerShell Modules
 | Name | Description |
 | :----: | :----: |
+| [Azure Resource Inventory](https://github.com/microsoft/ARI) | It's a Powerful tool to create EXCEL inventory from Azure Resources with low effort. |
 | [dbatools](https://dbatools.io/) | PowerShell module designed to automate SQL Server database administration, development, and migration tasks. |
 <br>
 
@@ -91,8 +95,14 @@ Seeing these kind of posts got me thinking to make a single repository.
 | Name | Description |
 | :----: | :----: |
 | [ADReplStatus](https://jrsoftware.org/isinfo.php) | AD replication status tool. |
+| [AzureWatcher](https://azurewatcher.com) | Weekly updates about changes in Azure documentation, new features, and important updates. |
 | [ClickPaste](https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit) | SQL Server scripts for health checks and performance tuning. |
+| [CloudNetDraw](https://github.com/krhatland/cloudnetdraw) | A python tool fir visualizing an Azure network. |
+| [GNS3](https://www.gns3.com) | Network sinulation softWare. |
+| [iPref (iPerf3)](https://iperf.fr) | Speed test tool for TCP, UDP and SCTP. |
+| [Monarch](https://github.com/Nuzair46/Monarch) | Detach, restore, and switch monitor layouts without touching cables.
 | [MSPortal](https://msportals.io) | Microsoft Administrator Sites, Training, and Licensing Resources. |
 | [GNS3](https://www.gns3.com) | Network sinulation softWare. |
 | [OpenSSL](https://slproweb.com/products/Win32OpenSSL.html) | OpenSSL for Microsoft Windows. |
+| [SQL Server Builds](https://sqlserverbuilds.blogspot.com/) | Uunofficial build chart lists all of the known Service Packs (SP), Cumulative Updates (CU), patches, hotfixes and other builds of MS SQL Server. |
 <br>
