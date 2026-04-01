@@ -26,6 +26,7 @@ Seeing these kind of posts got me thinking to make a single repository.
 | [NanaZip](https://github.com/M2Team/NanaZip) | Modern 7-Zip fork |
 | [NSIS (Nilesoft Scriptable Install System)](https://nsis.sourceforge.io) | A professional open source system to create Windows installers. |
 | [Nilesoft Shell](https://nilesoft.org/) | Powerful, free, open source context menu manager |
+| [PDF-XCHANGE Editor](https://www.pdf-xchange.com/product/pdf-xchange-editor) | A versatile, feature-rich PDF application for Windows users, designed for creating, viewing, editing, enhancing, and converting PDF documents. |
 | [UniGetUI](https://github.com/marticliment/UniGetUI) | Graphical Interface for your package managers |
 | [Windhawk](https://windhawk.net/) | The customization marketplace for Windows and programs |
 | [WinSCP](https://winscp.net/eng/index.php) | A popular file transfer program |
