@@ -45,7 +45,7 @@ Seeing these kind of posts got me thinking to make a single repository.
 ## Firefox
 | Name | Description |
 | :----: | :----: |
-| [Auto Tab Discard](https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)) | Automatically discard inactive tabs to free up resources. |
+| [Auto Tab Discard](https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard) | Automatically discard inactive tabs to free up resources. |
 | [OneTab](https://addons.mozilla.org/en-US/firefox/addon/onetab/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) | Convert tabs to a list and reduce browser memory. |
 | [Pinned GMail](https://addons.mozilla.org/en-US/firefox/addon/pinned-gmail/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) | Go to the pinned GMail tab. If it doesn't exist, it's created. It also alerts you the unread emails. |
 <br>
