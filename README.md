@@ -20,10 +20,8 @@ Seeing these kind of posts got me thinking to make a single repository.
 ## Apps
 | Name | Description |
 | :----: | :----: |
-| [7-Zip](https://www.7-zip.org/) | File archiver with a high compression ratio |
 | [Inno Setup](https://jrsoftware.org/isinfo.php) | A free installer for Windows programs. |
 | [Logitech Onboard Memory Manager](https://support.logi.com/hc/en-hk/articles/360059641133-Onboard-Memory-Manager) | Saves configurations directly to your Logictech devices |
-| [NanaZip](https://github.com/M2Team/NanaZip) | Modern 7-Zip fork |
 | [NSIS (Nilesoft Scriptable Install System)](https://nsis.sourceforge.io) | A professional open source system to create Windows installers. |
 | [Nilesoft Shell](https://nilesoft.org/) | Powerful, free, open source context menu manager |
 | [PDF-XCHANGE Editor](https://www.pdf-xchange.com/product/pdf-xchange-editor) | A versatile, feature-rich PDF application for Windows users, designed for creating, viewing, editing, enhancing, and converting PDF documents. |
