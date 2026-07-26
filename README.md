@@ -94,6 +94,7 @@ Seeing these kind of posts got me thinking to make a single repository.
 | Name | Description |
 | :----: | :----: |
 | [ADReplStatus](https://jrsoftware.org/isinfo.php) | AD replication status tool. |
+| [AzIcons](https://az-icons.com) | All the latest Azure icons in SVG and PNG format. |
 | [AzureWatcher](https://azurewatcher.com) | Weekly updates about changes in Azure documentation, new features, and important updates. |
 | [ClickPaste](https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit) | SQL Server scripts for health checks and performance tuning. |
 | [CloudNetDraw](https://github.com/krhatland/cloudnetdraw) | A python tool fir visualizing an Azure network. |
@@ -102,6 +103,7 @@ Seeing these kind of posts got me thinking to make a single repository.
 | [Monarch](https://github.com/Nuzair46/Monarch) | Detach, restore, and switch monitor layouts without touching cables.
 | [MSPortal](https://msportals.io) | Microsoft Administrator Sites, Training, and Licensing Resources. |
 | [Notepad++ Kusto Language](https://github.com/somared/KustoNPPLanguage) | Adds the Kusto Language to Notepad++. |
+| [GNS3](https://www.gns3.com) | Network sinulation softWare. |
 | [OpenSSL](https://slproweb.com/products/Win32OpenSSL.html) | OpenSSL for Microsoft Windows. |
 | [SQL Server Builds](https://sqlserverbuilds.blogspot.com/) | Unofficial build chart lists all of the known Service Packs (SP), Cumulative Updates (CU), patches, hotfixes and other builds of MS SQL Server. |
 <br>
