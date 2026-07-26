@@ -10,7 +10,7 @@ There are teo main problems with this approach.
 
 1. Keeping my personal and work OneDrives synced between each other.
 
-2. If I were to get a new job I have to make sure to export everything but I do not like logging in to my personal account on my work device and I dont like logging in to my work account on my persoanl device. 
+2. If I were to get a new job I have to make sure to export everything but I do not like logging in to my personal account on my work device and I don't like logging in to my work account on my personal device. 
 
 Seeing these kind of posts got me thinking to make a single repository. 
 <br>
@@ -20,12 +20,11 @@ Seeing these kind of posts got me thinking to make a single repository.
 ## Apps
 | Name | Description |
 | :----: | :----: |
-| [7-Zip](https://www.7-zip.org/) | File archiver with a high compression ratio |
 | [Inno Setup](https://jrsoftware.org/isinfo.php) | A free installer for Windows programs. |
-| [Logitech Onboard Memory Manager](https://support.logi.com/hc/en-hk/articles/360059641133-Onboard-Memory-Manager) | Saves configurations directly to your Logictech devices |
-| [NanaZip](https://github.com/M2Team/NanaZip) | Modern 7-Zip fork |
+| [Logitech Onboard Memory Manager](https://support.logi.com/hc/en-hk/articles/360059641133-Onboard-Memory-Manager) | Saves configurations directly to your Logitech devices |
 | [NSIS (Nilesoft Scriptable Install System)](https://nsis.sourceforge.io) | A professional open source system to create Windows installers. |
 | [Nilesoft Shell](https://nilesoft.org/) | Powerful, free, open source context menu manager |
+| [PDF-XCHANGE Editor](https://www.pdf-xchange.com/product/pdf-xchange-editor) | A versatile, feature-rich PDF application for Windows users, designed for creating, viewing, editing, enhancing, and converting PDF documents. |
 | [UniGetUI](https://github.com/marticliment/UniGetUI) | Graphical Interface for your package managers |
 | [Windhawk](https://windhawk.net/) | The customization marketplace for Windows and programs |
 | [WinSCP](https://winscp.net/eng/index.php) | A popular file transfer program |
@@ -46,7 +45,7 @@ Seeing these kind of posts got me thinking to make a single repository.
 ## Firefox
 | Name | Description |
 | :----: | :----: |
-| [Auto Tab Discard]([https://www.7-zip.org/](https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)) | Automatically discard inactive tabs to free up resources. |
+| [Auto Tab Discard](https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard) | Automatically discard inactive tabs to free up resources. |
 | [OneTab](https://addons.mozilla.org/en-US/firefox/addon/onetab/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) | Convert tabs to a list and reduce browser memory. |
 | [Pinned GMail](https://addons.mozilla.org/en-US/firefox/addon/pinned-gmail/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) | Go to the pinned GMail tab. If it doesn't exist, it's created. It also alerts you the unread emails. |
 <br>
@@ -61,9 +60,9 @@ Seeing these kind of posts got me thinking to make a single repository.
 ## Google Chrome
 | Name | Description |
 | :----: | :----: |
-| [Bookmark Favicon Changer]([https://www.7-zip.org/](https://chromewebstore.google.com/detail/bookmark-favicon-changer/acmfnomgphggonodopogfbmkneepfgnh)) | Change bookmark favicon. |
+| [Bookmark Favicon Changer](https://chromewebstore.google.com/detail/bookmark-favicon-changer/acmfnomgphggonodopogfbmkneepfgnh) | Change bookmark favicon. |
 | [OneTab](https://chromewebstore.google.com/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) | Convert tabs to a list and reduce browser memory. |
-| [SAML-tracer]([https://github.com/M2Team/NanaZip](https://chromewebstore.google.com/detail/saml-tracer/mpdajninpobndbfcldcmbpnnbhibjmch)) | A debugger for viewing SAML messages. |
+| [SAML-tracer](https://chromewebstore.google.com/detail/saml-tracer/mpdajninpobndbfcldcmbpnnbhibjmch) | A debugger for viewing SAML messages. |
 | [The Marvellous Suspender](https://chromewebstore.google.com/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa) | Make your computer run smoothly by suspending the tabs you aren't using. |
 <br>
 
@@ -99,11 +98,12 @@ Seeing these kind of posts got me thinking to make a single repository.
 | [AzureWatcher](https://azurewatcher.com) | Weekly updates about changes in Azure documentation, new features, and important updates. |
 | [ClickPaste](https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit) | SQL Server scripts for health checks and performance tuning. |
 | [CloudNetDraw](https://github.com/krhatland/cloudnetdraw) | A python tool fir visualizing an Azure network. |
-| [GNS3](https://www.gns3.com) | Network sinulation softWare. |
+| [GNS3](https://www.gns3.com) | Network simulations softWare. |
 | [iPref (iPerf3)](https://iperf.fr) | Speed test tool for TCP, UDP and SCTP. |
 | [Monarch](https://github.com/Nuzair46/Monarch) | Detach, restore, and switch monitor layouts without touching cables.
 | [MSPortal](https://msportals.io) | Microsoft Administrator Sites, Training, and Licensing Resources. |
+| [Notepad++ Kusto Language](https://github.com/somared/KustoNPPLanguage) | Adds the Kusto Language to Notepad++. |
 | [GNS3](https://www.gns3.com) | Network sinulation softWare. |
 | [OpenSSL](https://slproweb.com/products/Win32OpenSSL.html) | OpenSSL for Microsoft Windows. |
-| [SQL Server Builds](https://sqlserverbuilds.blogspot.com/) | Uunofficial build chart lists all of the known Service Packs (SP), Cumulative Updates (CU), patches, hotfixes and other builds of MS SQL Server. |
+| [SQL Server Builds](https://sqlserverbuilds.blogspot.com/) | Unofficial build chart lists all of the known Service Packs (SP), Cumulative Updates (CU), patches, hotfixes and other builds of MS SQL Server. |
 <br>
