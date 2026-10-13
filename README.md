@@ -81,7 +81,11 @@ Seeing these kind of posts got me thinking to make a single repository.
 | Name | Description |
 | :----: | :----: |
 | [Azure Resource Inventory](https://github.com/microsoft/ARI) | It's a Powerful tool to create EXCEL inventory from Azure Resources with low effort. |
+| [BurntToast](https://github.com/Windos/BurntToast) | Module for creating and displaying Toast Notifications on Microsoft Windows 10. |
 | [dbatools](https://dbatools.io/) | PowerShell module designed to automate SQL Server database administration, development, and migration tasks. |
+| [ExchangeOnlineManagement](https://www.powershellgallery.com/packages/ExchangeOnlineManagement) | Exchange Online Powershell V3 module. |
+| [Microsoft.Graph](https://github.com/microsoftgraph/msgraph-sdk-powershell) | Powershell SDK for Microsoft Graph. |
+| [PolicyFileEditor](https://www.powershellgallery.com/packages/PolicyFileEditor) | Commands and DSC resource for modifying Administrative Templates settings in local GPO registry.pol files. |
 <br>
 
 ## Scripts
