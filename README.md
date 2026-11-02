@@ -111,3 +111,17 @@ Seeing these kind of posts got me thinking to make a single repository.
 | [OpenSSL](https://slproweb.com/products/Win32OpenSSL.html) | OpenSSL for Microsoft Windows. |
 | [SQL Server Builds](https://sqlserverbuilds.blogspot.com/) | Unofficial build chart lists all of the known Service Packs (SP), Cumulative Updates (CU), patches, hotfixes and other builds of MS SQL Server. |
 <br>
+
+## VS Code Extensions
+| Name | Description |
+| :----: | :----: |
+| [Blockman - Highlight Nested Code Blocks](https://marketplace.visualstudio.com/items?itemName=leodevbro.blockman) | Mark/Highlight code blocks. |
+| [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) | Mark lines and jump to them. |
+| [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) | Spelling checker for source code. |
+| [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) | Makes indentation easier to read. |
+| [JSON Crack](https://marketplace.visualstudio.com/items?itemName=AykutSarac.jsoncrack-vscode) | Seamlessly visualize your JSON data instantly into graphs. |
+| [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) | Material Design Icons for Visual Studio Code. |
+| [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock) | Subtly change the workspace color of your workspace. Ideal when you have multiple VS Code instances and you want to quickly identify which is which.. |
+| [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell) | Develop PowerShell modules, commands and scripts in Visual Studio Code!. |
+| [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) | Code formatter using prettier. |
+| *Optional* [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) | Icons for Visual Studio Code. |
